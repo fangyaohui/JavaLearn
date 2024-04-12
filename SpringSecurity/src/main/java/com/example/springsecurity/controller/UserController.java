@@ -1,6 +1,8 @@
 package com.example.springsecurity.controller;
 
-import org.springframework.stereotype.Controller;
+import com.example.springsecurity.entity.User;
+import com.example.springsecurity.service.serviceImpl.UserServiceImpl;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -15,10 +17,14 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class UserController {
 
-    @RequestMapping("/hello")
-    public String helloWorld(){
+    @Autowired
+    private UserServiceImpl userService;
 
-        return "Hello World!";
+    @RequestMapping("/hello")
+    public User helloWorld(){
+
+        return userService.login("fang");
+//        return "Hello World!";
     }
 
 

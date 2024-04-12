@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35fb770a-dcd2-4598-810e-064437f4bdd4" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/example/springsecurity/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/example/springsecurity/service/serviceImpl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/target/SpringSecurity-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/target/SpringSecurity-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/target/classes/com/example/springsecurity/dto/LoginUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/target/classes/com/example/springsecurity/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/target/classes/com/example/springsecurity/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/target/classes/com/example/springsecurity/service/serviceImpl/UserDetailsServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/target/classes/com/example/springsecurity/service/serviceImpl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/target/surefire-reports/2024-04-12T20-40-38_723.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/target/surefire-reports/TEST-com.example.springsecurity.SpringSecurityApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/target/surefire-reports/com.example.springsecurity.SpringSecurityApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/example/springsecurity/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/example/springsecurity/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/example/springsecurity/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/example/springsecurity/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/test/java/com/example/springsecurity/SpringSecurityApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/src/test/java/com/example/springsecurity/SpringSecurityApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/target/classes/com/example/springsecurity/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/target/classes/com/example/springsecurity/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/target/test-classes/com/example/springsecurity/SpringSecurityApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/target/test-classes/com/example/springsecurity/SpringSecurityApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../ToolFolder/apache-maven-3.8.8" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\CodeFolder\ToolFolder\apache-maven-3.8.8\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="corretto-17" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2ezlzi27oZYHwbFBhXS5rZxXe6o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="corretto-17" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringSecurityApplication">
+    <configuration name="SpringSecurityApplicationTests.findUserById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringSecurity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springsecurity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.springsecurity" />
+      <option name="MAIN_CLASS_NAME" value="com.example.springsecurity.SpringSecurityApplicationTests" />
+      <option name="METHOD_NAME" value="findUserById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityApplicationTests.findUserByUsername" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringSecurity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springsecurity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.springsecurity" />
+      <option name="MAIN_CLASS_NAME" value="com.example.springsecurity.SpringSecurityApplicationTests" />
+      <option name="METHOD_NAME" value="findUserByUsername" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringSecurity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springsecurity.SpringSecurityApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-17" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SpringSecurityApplicationTests.findUserByUsername" />
+      <item itemvalue="JUnit.SpringSecurityApplicationTests.findUserById" />
+      <item itemvalue="Spring Boot.SpringSecurityApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringSecurityApplicationTests.findUserById" />
+        <item itemvalue="JUnit.SpringSecurityApplicationTests.findUserByUsername" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35fb770a-dcd2-4598-810e-064437f4bdd4" name="Changes" comment="" />
+      <created>1712915551281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712915551281</updated>
+      <workItem from="1712915552551" duration="1932000" />
+      <workItem from="1712927345475" duration="1010000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1712918208963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712918208963</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1712918219221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712918219221</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1712918279150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712918279150</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>
